@@ -1,0 +1,7 @@
+{
+  "name": "Ditto",
+  "website": "https://dittonetwork.io/",
+  "description": "Ditto EigenLayer operator. Ditto seamlessly extends Ethereum's capabilities by providing a secure keeper network for running intents based on predefined logic.",
+  "logo": "https://raw.githubusercontent.com/dittonetwork/eigenlayer-operator-metadata/master/logo-1080px.png",
+  "twitter": "https://x.com/DittoAutomation"
+}
